@@ -1,0 +1,55 @@
+<svg id="Box_Left" data-name="Box Left" xmlns="http://www.w3.org/2000/svg" width="666.933" height="667.267" viewBox="0 0 2001 2002">
+<defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #466bb8;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-width: 50px;
+      }
+
+      .cls-2 {
+        fill: #0c2e76;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #182237;
+      }
+
+      .cls-4 {
+        fill: #142a59;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke-width: 25px;
+      }
+
+      .cls-7 {
+        fill: #183c87;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="1000.997" cy="1001.997" r="975.622"/>
+  <path id="Box_Left-2" data-name="Box Left" class="cls-2" d="M269,994L566,822,862,994v344L566,1510,269,1338V994Z"/>
+  <path id="Box_Left_left" data-name="Box Left left" class="cls-3" d="M269,1338l297,172V1167L269,994v344Z"/>
+  <path id="Box_Left_top" data-name="Box Left top" class="cls-4" d="M566,822L269,994l297,173L862,994Z"/>
+  <path id="Stroke" class="cls-5" d="M276,998L566,831,854,998v334L566,1500,276,1332V998Z"/>
+  <path id="Box_Left-3" data-name="Box Left" class="cls-6" d="M1141,994l297-172,296,172v344l-296,172-297-172V994Z"/>
+  <path id="Box_Right_left" data-name="Box Right left" class="cls-4" d="M1141,1338l297,172V1167L1141,994v344Z"/>
+  <path id="Box_Right_top" data-name="Box Right top" class="cls-7" d="M1438,822L1141,994l297,173,296-173Z"/>
+  <path id="Stroke-2" data-name="Stroke" class="cls-5" d="M1148,998l290-167,288,167v334l-288,168-290-168V998Z"/>
+  <path id="Box_Main-2" data-name="Box Main" class="cls-2" d="M626,693l375-219,376,219V816L1108,972v315l-107,62-106-62V972L626,816V693Z"/>
+  <path id="Box_Main_left" data-name="Box Main left" class="cls-4" d="M626,693V816L895,972v315l106,62V911Z"/>
+  <path id="Box_Main_top" data-name="Box Main top" class="cls-7" d="M1001,472L626,693l375,218,376-218Z"/>
+  <path id="Box_Main_stroke" data-name="Box Main stroke" class="cls-5" d="M634,698l367-213.62L1367,698V811L1100,966v316l-99,57-99-57V966L634,811V698Z"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="Box_Left" data-name="Box Left" xmlns="http://www.w3.org/2000/svg" width="666.933" height="667.267" viewBox="0 0 2001 2002">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #232220;
+        stroke: #fff;
+        stroke-width: 50px;
+      }
+
+      .cls-2 {
+        fill: #f7f7f7;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="1000.997" cy="1001.997" r="975.622"/>
+  <path id="Box_Left-2" data-name="Box Left" class="cls-2" d="M269,994L566,822,862,994v344L566,1510,269,1338V994Z"/>
+  <path id="Box_Left-3" data-name="Box Left" class="cls-2" d="M1141,994l297-172,296,172v344l-296,172-297-172V994Z"/>
+  <path id="Box_Main-2" data-name="Box Main" class="cls-2" d="M626,693l375-219,376,219V816L1108,972v315l-107,62-106-62V972L626,816V693Z"/>
+</svg>
