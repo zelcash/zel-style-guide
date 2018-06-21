@@ -4,12 +4,12 @@ Branding Guidelines for the Zel Brand
 
 ## Logos
 
-![Zelcash Logo with Text](https://github.com/zelcash/zel-style-guide/blob/master/png/Zeltrez-Logo-Text.png | width=250)
-![Zeltrez Logo with Text](https://github.com/zelcash/zel-style-guide/blob/master/png/Zeltrez-Logo-Text.png | width=250)
-
-![Zelcash Logo Round](https://github.com/zelcash/zel-style-guide/blob/master/png/Zelcash-Logo-Round.png | width=250)
-![Zeltrez Logo Round](https://github.com/zelcash/zel-style-guide/blob/master/png/Zeltrez-Logo-Round.png | width=250)
-
+<img src="png/Zelcash-Logo-Text.png" alt="Zelcash Logo with Text" width="250px"/>
+<img src="png/Zeltrez-Logo-Text.png" alt="Zeltrez Logo with Text" width="250px"/>
+<br/>
+<br/>
+<img src="png/Zelcash-Logo-Round.png" alt="Zelcash Logo Round" width="250px"/>
+<img src="png/Zeltrez-Logo-Round.png" alt="Zeltrez Logo Round" width="250px"/>
 
 ## Colors
 
