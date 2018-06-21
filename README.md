@@ -4,12 +4,12 @@ Branding Guidelines for the Zel Brand
 
 ## Logos
 
-<img src="png/Zelcash-Logo-Text.png" alt="Zelcash Logo with Text" style="width:250px"/>
-<img src="png/Zeltrez-Logo-Text.png" alt="Zeltrez Logo with Text" style="width:250px"/>
-<br/>
-<br/>
-<img src="png/Zelcash-Logo-Round.png" alt="Zelcash Logo Round" style="width:250px"/>
-<img src="png/Zeltrez-Logo-Round.png" alt="Zeltrez Logo Round" style="width:250px"/>
+![Zelcash Logo with Text](png/Zelcash-Logo-Text.png | width=250)
+![Zeltrez Logo with Text](png/Zeltrez-Logo-Text.png | width=250)
+
+![Zelcash Logo Round](png/Zelcash-Logo-Round.png | width=250)
+![Zeltrez Logo Round](png/Zeltrez-Logo-Round.png | width=250)
+
 
 ## Colors
 
@@ -36,16 +36,10 @@ Branding Guidelines for the Zel Brand
 
 ## Fonts
 
-<table style="width:100%">
-  <tr>
-    <th>Helvetica Neue</th>
-    <th>Roboto (Google)</th>
-  </tr>
-  <tr>
-    <td>
+Helvetica Neue
     ```css
         <style>
-            .zelapple {
+            .zel {
                 font-family: Helvetica Neue;
                 font-weight: 600;
                 font-size: 50px;
@@ -55,14 +49,7 @@ Branding Guidelines for the Zel Brand
             }
         </style>
     ```
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+    
 
 
 </div>
