@@ -36,20 +36,50 @@ Branding Guidelines for the Zel Brand
 
 ## Fonts
 
+### Font name
 Helvetica Neue
-    ```css
-        <style>
-            .zel {
-                font-family: Helvetica Neue;
-                font-weight: 600;
-                font-size: 50px;
-            }
-            .thin {
-                font-weight: 100;
-            }
-        </style>
-    ```
-    
 
+### CSS
+```css
+<style>
+    .zel {
+        font-family: Helvetica Neue;
+        font-weight: 600;
+    }
+    .thin {
+        font-weight: 100;
+    }
+</style>
+```
+
+### HTML
+
+```html
+<p class="zel">zel<span class="thin">cash</span></p>
+```
+
+### Font name
+Roboto (Google Font)
+
+### CSS
+```css
+<style>
+    .zel {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+    }
+    .thin {
+        font-weight: 100;
+    }
+</style>
+```
+
+### HTML
+
+```html
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,500" rel="stylesheet">
+
+<p class="zel">zel<span class="thin">cash</span></p>
+```
 
 </div>
