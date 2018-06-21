@@ -43,18 +43,18 @@ Branding Guidelines for the Zel Brand
   </tr>
   <tr>
     <td>
-    ´´´css
-<style>
-.zelapple {
-	font-family: Helvetica Neue;
-	font-weight: 600;
-	font-size: 50px;
-}
-.thin {
-	font-weight: 100;
-}
-</style>
-    ´´´
+    ```css
+        <style>
+            .zelapple {
+                font-family: Helvetica Neue;
+                font-weight: 600;
+                font-size: 50px;
+            }
+            .thin {
+                font-weight: 100;
+            }
+        </style>
+    ```
     </td>
     <td></td>
   </tr>
