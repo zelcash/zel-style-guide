@@ -37,14 +37,14 @@ Branding Guidelines for the Zel Brand
 ## Fonts
 
 ### Font name
-Helvetica Neue
+Heebo (Google Font) [Main]
 
 ### CSS
 ```css
 <style>
     .zel {
-        font-family: Helvetica Neue;
-        font-weight: 600;
+    	font-family: 'Heebo', sans-serif;
+        font-weight: 500;
     }
     .thin {
         font-weight: 100;
@@ -55,11 +55,12 @@ Helvetica Neue
 ### HTML
 
 ```html
+<link href="https://fonts.googleapis.com/css?family=Heebo:100,500" rel="stylesheet">
 <p class="zel">zel<span class="thin">cash</span></p>
 ```
 
 ### Font name
-Roboto (Google Font)
+Roboto (Google Font) [Alternative]
 
 ### CSS
 ```css
@@ -81,5 +82,11 @@ Roboto (Google Font)
 
 <p class="zel">zel<span class="thin">cash</span></p>
 ```
+
+### Use
+```
+letter-spacing: -2px;
+```
+if font-size larger than 50px
 
 </div>
