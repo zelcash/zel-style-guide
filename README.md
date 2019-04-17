@@ -4,11 +4,11 @@ Branding Guidelines for the Zel Brand
 
 ## Logos
 
-<img src="png/ZelCash-Logo-Text.png" alt="ZelCash Logo with Text" width="250px"/>
-<img src="png/ZelCore-Logo-Text.png" alt="ZelCore Logo with Text" width="250px"/>
+<img src="png/Zel-Text.png" alt="Zel Logo with Text" width="250px"/>
+<img src="png/ZelCore-Text.png" alt="ZelCore Logo with Text" width="250px"/>
 <br/>
 <br/>
-<img src="png/ZelCash-Logo-Round.png" alt="ZelCash Logo Round" width="250px"/>
+<img src="png/Zel-Logo-Round.png" alt="Zel Logo Round" width="250px"/>
 <img src="png/ZelCore-Logo-Round.png" alt="ZelCore Logo Round" width="250px"/>
 
 ## Colors
